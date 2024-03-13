@@ -1,0 +1,11 @@
+{
+    "data_source_name": "Cycler X",
+    "data_directory": "c:/wrk/tmp",
+    "data_files": "*.ycd",
+    "api_endpoint": "http://localhost:8001/api/v1/directory-info",
+    "update_alert_delay": 180,
+    "uptime_alert_delay": 5,
+    "uptime_alert_scheme": "daily",
+    "uptime_alert_GMT_hour": "10",
+    "uptime_alert_GMT_minute": 0
+}
