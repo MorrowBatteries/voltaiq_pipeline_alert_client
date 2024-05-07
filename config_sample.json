@@ -1,5 +1,7 @@
 {
+    "API token": "",
     "data_source_name": "Cycler X",
+    "data_source_timezone": "Asia/Seoul",
     "data_directory": "c:/wrk/tmp",
     "data_files": "*.ycd",
     "api_endpoint": "http://localhost:8001/api/v1/directory-info",
